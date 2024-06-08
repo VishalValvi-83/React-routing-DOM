@@ -8,6 +8,7 @@ const Home = () => {
       <div className="container">
         <h1>HOME</h1>
         <h3>Welcome to Home page</h3>
+        <p>Routing done using library</p>
       </div>
       <Footer />
     </>

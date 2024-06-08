@@ -21,3 +21,13 @@
     font-size: 24px;
     margin-bottom: 20px;
 }
+
+.container p {
+    color: brown;
+    font-size: 18px;
+    margin-bottom: 20px;
+    margin: 0 auto;
+    padding: 5px;
+    width: max-content;
+    background-color:  #b6b6b6;
+}
